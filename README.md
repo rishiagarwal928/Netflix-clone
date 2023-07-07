@@ -1,5 +1,5 @@
 # Netflix-clone
-Netflix's Home Page Clone by Rishi Agarwal
+Netflix's Home Page Clone using React by Rishi Agarwal
 
 Demo: https://cool-dodol-fba2ba.netlify.app/
 # Getting Started with Create React App
